@@ -1,0 +1,1 @@
+customer.sql = base de donnée SQL, a importer dans une nouvelle base 'test'
